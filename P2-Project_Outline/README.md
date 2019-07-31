@@ -24,3 +24,6 @@ o	Thymeleaf
 
 ### What I'll Have to Learn
 I will have to become much more comfortable with Java object creation with models and controllers as well as linking to APIs.  I will need to learn how to utilize the above technologies/languages in tandem in order to create a persistent database for user accounts as well as holding onto the ‘qualifying totals’ and numbers used for strength/weakness calculation.
+
+### Trello link
+https://trello.com/b/sZWVzkSI/qualification-checker
