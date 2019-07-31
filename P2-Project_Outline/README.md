@@ -17,9 +17,13 @@ o	Strengths/weaknesses: Users will be able to input various accessory movements 
 
 ### Technologies
 o	Java
+
 o	Bootstrap
+
 o	SpringBoot (AWS Server support?)
+
 o	MySQL
+
 o	Thymeleaf
 
 ### What I'll Have to Learn
