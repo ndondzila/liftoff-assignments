@@ -16,15 +16,12 @@ o	Qualification tables: Users will be able browse the entire list of qualifying 
 o	Strengths/weaknesses: Users will be able to input various accessory movements and receive automated feedback based on subjectively established "ideal" ratios.
 
 ### Technologies
-o	Java
-
-o	Bootstrap
-
-o	SpringBoot (AWS Server support?)
-
-o	MySQL
-
-o	Thymeleaf
+*	Java
+*	Bootstrap
+* JavaScript/JSReact
+*	SpringBoot (AWS Server support?)
+*	MySQL
+*	Thymeleaf
 
 ### What I'll Have to Learn
 I will have to become much more comfortable with Java object creation with models and controllers as well as linking to APIs.  I will need to learn how to utilize the above technologies/languages in tandem in order to create a persistent database for user accounts as well as holding onto the ‘qualifying totals’ and numbers used for strength/weakness calculation.
