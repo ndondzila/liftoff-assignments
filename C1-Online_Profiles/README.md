@@ -13,6 +13,4 @@ https://github.com/ndondzila/
 https://www.linkedin.com/in/ndondzila/
 
 ### Resume
-
-
-> *Your GitHub repository is public* if you do not want to upload your resume to a public facing repository talk with your Mentor about an alternate way to submit this assignment.
+https://github.com/ndondzila/liftoff-assignments/blob/master/C1-Online_Profiles/Technical%20Resume%20-%20Nicholas%20Dondzila.pdf
