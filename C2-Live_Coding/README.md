@@ -1,7 +1,7 @@
 # Live Coding
 For this assignment you will be going through a live coding session with a Mentor, Volunteer, or a LaunchCode staff member.
 
-Your live coding administrator will be grading your ability to demonstrate your problem solving ability, and will expect you to: gather requiremetns, break down problems, logic, code, test, and make changes.
+Your live coding administrator will be grading your ability to demonstrate your problem solving ability, and will expect you to: gather requirements, break down problems, logic, code, test, and make changes.
 
 ## Assignment Description
 [Live Coding Assignment](https://education.launchcode.org/liftoff/assignments/live-coding/)
